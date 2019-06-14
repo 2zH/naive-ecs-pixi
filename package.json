@@ -1,0 +1,14 @@
+{
+	"main": "dist/index.js",
+	"repoType": "lib",
+	"name": "game",
+	"source": "src/index.ts",
+	"version": "1.0.0",
+	"license": "MIT",
+	"dependencies": {
+		"pixi.js": "^4.8.8"
+	},
+	"devDependencies": {
+		"@types/pixi.js": "4.8.8"
+	}
+}
